@@ -62,7 +62,7 @@
             this.groupBox1.Location = new System.Drawing.Point(13, 13);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(756, 221);
-            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Estado Paquetes";
             // 
@@ -144,7 +144,7 @@
             this.groupBox2.Location = new System.Drawing.Point(476, 241);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(293, 182);
-            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabIndex = 0;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Paquete";
             // 
@@ -220,7 +220,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "FrmPpal";
-            this.Text = "Correo UTN por Javier.Mollar.2A";
+            this.Text = "0";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.mostrarTSMI.ResumeLayout(false);

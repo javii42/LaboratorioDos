@@ -22,6 +22,7 @@ namespace MainCorreo
             Application.ThreadException += new ThreadExceptionEventHandler(UIThreadException);
             AppDomain currentDomain = AppDomain.CurrentDomain;
             currentDomain.UnhandledException += new UnhandledExceptionEventHandler(MyHandler);
+            this.mTxtTrackingID.Focus();
            
         }
 
