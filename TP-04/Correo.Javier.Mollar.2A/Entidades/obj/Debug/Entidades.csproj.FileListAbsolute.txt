@@ -1,0 +1,6 @@
+E:\javii\Documents\Facultad\Programación 2\TP04\Correo.Javier.Mollar.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\javii\Documents\Facultad\Programación 2\TP04\Correo.Javier.Mollar.2A\Entidades\bin\Debug\Entidades.dll.config
+E:\javii\Documents\Facultad\Programación 2\TP04\Correo.Javier.Mollar.2A\Entidades\bin\Debug\Entidades.dll
+E:\javii\Documents\Facultad\Programación 2\TP04\Correo.Javier.Mollar.2A\Entidades\bin\Debug\Entidades.pdb
+E:\javii\Documents\Facultad\Programación 2\TP04\Correo.Javier.Mollar.2A\Entidades\obj\Debug\Entidades.dll
+E:\javii\Documents\Facultad\Programación 2\TP04\Correo.Javier.Mollar.2A\Entidades\obj\Debug\Entidades.pdb

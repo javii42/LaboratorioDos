@@ -1,0 +1,9 @@
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
