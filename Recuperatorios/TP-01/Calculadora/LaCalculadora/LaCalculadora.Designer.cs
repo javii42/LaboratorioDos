@@ -69,7 +69,7 @@
             this.cmbOperador.Items.AddRange(new object[] {
             "+",
             "-",
-            "x",
+            "*",
             "/"});
             this.cmbOperador.Location = new System.Drawing.Point(147, 66);
             this.cmbOperador.Name = "cmbOperador";

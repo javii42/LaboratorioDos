@@ -36,7 +36,7 @@ namespace Entidades
             String retorno = "Valor invalido";
             if (!numero.Contains(","))
             {
-                retorno = Convert.ToString(Convert.ToInt32(numero,10), 10);
+                retorno = Convert.ToString(Convert.ToInt32(numero,10), 2);
             }
             return retorno;
         }
