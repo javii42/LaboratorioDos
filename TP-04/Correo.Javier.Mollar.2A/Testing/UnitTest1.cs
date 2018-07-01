@@ -26,7 +26,7 @@ namespace Testing
                 correo = correo + p2;
             }
             catch (Exception e) {
-
+                
             }
         }
     }
