@@ -1,0 +1,5 @@
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\bin\Debug\Entidades.dll
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\bin\Debug\Entidades.pdb
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\Entidades.dll
+E:\javii\Documents\Facultad\Programación 2\Recuperatorios\TP-01\Calculadora\Entidades\obj\Debug\Entidades.pdb

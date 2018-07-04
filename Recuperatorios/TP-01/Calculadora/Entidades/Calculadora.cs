@@ -4,9 +4,10 @@ namespace Entidades
 {
     public class Calculadora
     {
-        public double Operar(Numero num1, Numero num2, string operador) {
+        public double Operar(Numero num1, Numero num2, string operador)
+        {
             double resultado;
-            operador =Calculadora.ValidarOperador(operador);
+            operador = Calculadora.ValidarOperador(operador);
             switch (operador)
             {
                 case "+":
@@ -22,13 +23,15 @@ namespace Entidades
                     resultado = num1 / num2;
                     break;
                 default:
-                    resultado =0;
+                    resultado = 0;
                     break;
             }
             return resultado;
         }
-        private static string ValidarOperador(string operador) {
-            switch (operador) {
+        private static string ValidarOperador(string operador)
+        {
+            switch (operador)
+            {
                 case "+":
                 case "-":
                 case "*":
