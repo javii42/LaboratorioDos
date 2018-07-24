@@ -1,0 +1,34 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\Entidades.SP.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\SP\obj\x86\Debug\SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\SP.exe
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\Entidades.SP.dll
+C:\Users\alumno\Desktop\2017_12_finales\SP\bin\Debug\Entidades.SP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.frmRSP.resources
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.Properties.Resources.resources
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.exe
+C:\Users\alumno\Desktop\2017_12_finales\SP\obj\x86\Debug\SP.pdb
+C:\Users\alumno\Desktop\SP\obj\x86\Debug\SP.exe
+C:\Users\alumno\Desktop\SP\obj\x86\Debug\SP.pdb
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.csprojAssemblyReference.cache
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.frmRSP.resources
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.Properties.Resources.resources
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.csproj.GenerateResource.cache
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.csproj.CoreCompileInputs.cache
+E:\javii\Documents\Facultad\Programación 2\SP\bin\Debug\SP.exe
+E:\javii\Documents\Facultad\Programación 2\SP\bin\Debug\SP.pdb
+E:\javii\Documents\Facultad\Programación 2\SP\bin\Debug\Entidades.dll
+E:\javii\Documents\Facultad\Programación 2\SP\bin\Debug\Entidades.pdb
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.csproj.CopyComplete
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.exe
+E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.pdb
