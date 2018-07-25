@@ -10,3 +10,4 @@ E:\javii\Documents\Facultad\Programación 2\SP\Entidades\obj\Debug\Entidades.csp
 E:\javii\Documents\Facultad\Programación 2\SP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 E:\javii\Documents\Facultad\Programación 2\SP\Entidades\obj\Debug\Entidades.dll
 E:\javii\Documents\Facultad\Programación 2\SP\Entidades\obj\Debug\Entidades.pdb
+E:\javii\Documents\Facultad\Programación 2\SP\Entidades\bin\Debug\Entidades.dll.config

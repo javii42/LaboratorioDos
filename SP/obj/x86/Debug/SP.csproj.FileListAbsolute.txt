@@ -32,3 +32,4 @@ E:\javii\Documents\Facultad\Programación 2\SP\bin\Debug\Entidades.pdb
 E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.csproj.CopyComplete
 E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.exe
 E:\javii\Documents\Facultad\Programación 2\SP\obj\x86\Debug\SP.pdb
+E:\javii\Documents\Facultad\Programación 2\SP\bin\Debug\Entidades.dll.config

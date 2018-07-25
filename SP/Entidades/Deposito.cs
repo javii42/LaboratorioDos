@@ -18,45 +18,60 @@ namespace Entidades
         public Deposito() : this(3) {
 
         }
-        public static Producto[] operator +(Deposito d1, Deposito d2){
+        public static Producto[] operator +(Deposito d1, Deposito d2) {
             int cantidad = d1._cantidad + d2._cantidad;
-            int stock, count=0;
+            int stock, count = 0, posicion;
             bool flag = false;
             Producto p;
             Producto[] aux = new Producto[cantidad];
-            for (int i = 0; i < d1._cantidad; i++){
-                stock = d1.productos[i].stock;
-                for (int j = 0; j < d2._cantidad; j++) {
-                    if (d1.productos[i] == d2.productos[j]) { //sobrecarge igualdad en Producto
-                        stock += d2.productos[j].stock;
-                    }
-                }
-                p = new Producto(d1.productos[i].nombre, stock);
-                aux[count] = p;
-                count++;
-            }
-            for (int i = 0; i < d2._cantidad; i++)
-            {
-                for (int j = 0; j < d1._cantidad; j++)
+            foreach (Producto item in d1.productos) {
+                if (Deposito.ExisteProducto(aux, item, out posicion))
                 {
-                    if (d2.productos[i] == d1.productos[j])
-                    { //sobrecarge igualdad en Producto
-                        flag = true;
-                        break;
-                    }
+                    stock = aux[posicion].stock + item.stock;
+                    p = new Producto(aux[posicion].nombre, stock);
+                    aux[posicion] = p;
                 }
-                if (!flag)
-                {
-                    p = new Producto(d2.productos[i].nombre, d2.productos[i].stock);
+                else {
+                    p = new Producto(item.nombre, item.stock);
                     aux[count] = p;
                     count++;
                 }
+            }
+            foreach (Producto item in d2.productos)
+            {
+                if (Deposito.ExisteProducto(aux, item, out posicion))
+                {
+                    stock = aux[posicion].stock + item.stock;
+                    p = new Producto(aux[posicion].nombre, stock);
+                    aux[posicion] = p;
+                }
                 else
                 {
-                    flag = false;
+                    p = new Producto(item.nombre, item.stock);
+                    aux[count] = p;
+                    count++;
                 }
             }
             return aux;
+        }
+
+        public static bool ExisteProducto(Producto[] aux, Producto p, out int posicion) {
+            bool retorno = false;
+            posicion = -1;
+            int count = 0;
+            foreach (Producto item in aux) {
+                if ((object)item != null) {
+                    if (item == p)
+                    {
+                        retorno = true;
+                        posicion = count;
+                        break;
+                    }
+                    count++;
+                }
+               
+            }
+            return retorno;
         }
     }
 

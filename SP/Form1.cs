@@ -167,8 +167,8 @@ namespace SP
         //Base de Datos (productosDB) -> Tabla productos (nombre - stock)
         private void btnPunto6_Click(object sender, EventArgs e)
         {
-            //Producto p = new Producto("", 0);
-            //MessageBox.Show(p.MostrarBD());
+            Producto p = new Producto("", 0);
+            MessageBox.Show(p.MostrarBD());
         }
 
         //Generar la clase genérica EntidadesFinancieras. Dicha clase tendrá el atributo _elementos:List del tipo genérico.
