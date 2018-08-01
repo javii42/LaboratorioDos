@@ -1,0 +1,8 @@
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\bin\Debug\Program.exe.config
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\bin\Debug\Program.exe
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\bin\Debug\Program.pdb
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\bin\Debug\Entidades.dll
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\bin\Debug\Entidades.pdb
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\obj\Debug\Program.exe
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Program\obj\Debug\Program.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Cristian.Javier.Mollar.2A\Entidades\obj\Debug\Entidades.pdb
